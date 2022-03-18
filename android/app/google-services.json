@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "89718340358",
+    "firebase_url": "https://hommey-b9aa6.firebaseio.com",
+    "project_id": "hommey-b9aa6",
+    "storage_bucket": "hommey-b9aa6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89718340358:android:cecfb0a49c2cf88ccd7c87",
+        "android_client_info": {
+          "package_name": "com.example.hommey"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "89718340358-nvseb8e9ddoeccd60fc0uossil8hpdod.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2fIipCwveoVD2oCjO-8OXZaI7UMl7YCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "89718340358-nvseb8e9ddoeccd60fc0uossil8hpdod.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
